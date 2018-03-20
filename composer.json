@@ -1,13 +1,13 @@
 {
-    "name": "hernandev/sc2-sdk-php",
+    "name": "akintunde/sc2-sdk-php",
     "description": "PHP SDK for SteemConnect V2",
     "type": "library",
     "keywords": ["steem", "steemconnect", "steem-connect", "sc2", "sdk"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Diego Hernandes",
-            "email": "diego@hernandev.com"
+            "name": "Akintunde",
+            "email": "jegedeakintunde@gmail.com"
         }
     ],
     "minimum-stability": "stable",
